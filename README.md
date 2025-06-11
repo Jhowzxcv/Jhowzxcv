@@ -4,23 +4,6 @@
 
 Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo. Atualmente estou cursando o ensino médio com curso técnico em Desenvolvimento de Sistemas na ETEC Professor Camargo Aranha. Sou apaixonado por tecnologia, especialmente desenvolvimento backend, e estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
 
-<p align="left">
-    <a href="https://github.com/Jhowzxcv?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Jhowzxcv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Jhowzxcv?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Jhowzxcv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🚀 Sobre mim
