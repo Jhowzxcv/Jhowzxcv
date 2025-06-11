@@ -98,6 +98,22 @@ Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JUnit"
+    title="JUnit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -106,8 +122,9 @@ Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo
 
 - **Backend Development**: Java, Spring Boot, Spring Security, Spring Data JPA
 - **Banco de Dados**: MySQL, PostgreSQL, JPA/Hibernate
+- **Testes**: JUnit, Spring Boot Test, Mockito
 - **APIs**: REST, desenvolvimento de microserviços
-- **Ferramentas**: Git, Docker, Maven/Gradle
+- **Ferramentas**: Git, Docker, Maven/Gradle, IntelliJ IDEA
 - **Frontend**: HTML, CSS, JavaScript (conhecimentos básicos)
 
 ---
