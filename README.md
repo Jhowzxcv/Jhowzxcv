@@ -121,7 +121,7 @@ Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que uti
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/tree/v2.17.0/icons/javascript/typescript-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" 
 />
 <img 
     align="left" 
@@ -137,7 +137,7 @@ Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que uti
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
 
