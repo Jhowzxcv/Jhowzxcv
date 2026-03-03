@@ -137,7 +137,7 @@ Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que uti
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" 
+    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" 
 />
 
 
