@@ -2,16 +2,17 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo. Atualmente estou cursando o ensino médio com curso técnico em Desenvolvimento de Sistemas na ETEC Professor Camargo Aranha. Sou apaixonado por tecnologia, especialmente desenvolvimento backend, e estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
+Me chamo Jhonathan dos Santos Dourado, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando o bacharelado em Engenharia de Softwarena FIAP e ja sou técnico em Desenvolvimento de Sistemas pela ETEC Professor Camargo Aranha. Sou apaixonado por tecnologia, especialmente desenvolvimento backend, e estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
+Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que utilizo as linguagens Typescript com o framework Angular para o Front-End e Java com o framework SpringBoot para o Back-end
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas** na ETEC Professor Camargo Aranha
+- 🎓 Estudante de **Engenharia de Sofware** na FIAP
+- 🎓 Tecnico em **Desenvolvimento de Sistemas** pela ETEC Professor Camargo Aranha
 - 💻 Focado em **desenvolvimento backend** com Java e Spring ecosystem
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
-- 🔍 Aberto a oportunidades de **estágio**, **freelances** e **colaborações**
 - 📍 Localizado em **São Paulo, SP**
 
 ---
@@ -28,6 +29,14 @@ Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo
 />
 <img 
     align="left" 
+    alt="JUnit"
+    title="JUnit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Spring"
     title="Spring" 
     width="30px" 
@@ -41,6 +50,14 @@ Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
 <img 
     align="left" 
@@ -100,20 +117,29 @@ Me chamo Jhonathan dos Santos Dourado, tenho 17 anos e sou natural de São Paulo
 />
 <img 
     align="left" 
-    alt="JUnit"
-    title="JUnit" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/typescript-original.svg" 
 />
 <img 
     align="left" 
-    alt="IntelliJ IDEA"
-    title="IntelliJ IDEA" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/angular-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/aws-original.svg" 
+/>
+
 
 <br/>
 <br/>
