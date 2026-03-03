@@ -155,18 +155,6 @@ Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que uti
 
 ---
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
 ### 💼 Interesses profissionais
 
 - 🔧 Desenvolvimento de APIs robustas e escaláveis
