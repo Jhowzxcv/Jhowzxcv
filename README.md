@@ -155,26 +155,6 @@ Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que uti
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Jhowzxcv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowzxcv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 <br/>
 <br/>
 <br/>
@@ -206,7 +186,3 @@ Estou sempre aberto para discutir projetos interessantes, oportunidades de colab
 - 🐱 **GitHub**: Você já está aqui! 😄
 
 ---
-
-<div align="center">
-  <i>⭐ Se algum dos meus projetos foi útil para você, considere dar uma estrela!</i>
-</div>
