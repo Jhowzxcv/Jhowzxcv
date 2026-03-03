@@ -147,11 +147,11 @@ Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que uti
 ### 🎯 Principais competências
 
 - **Backend Development**: Java, Spring Boot, Spring Security, Spring Data JPA
-- **Banco de Dados**: MySQL, PostgreSQL, JPA/Hibernate
+- **Banco de Dados**: MySQL, PostgreSQL, JPA/Hibernate, SQLServer
 - **Testes**: JUnit, Spring Boot Test, Mockito
 - **APIs**: REST, desenvolvimento de microserviços
-- **Ferramentas**: Git, Docker, Maven/Gradle, IntelliJ IDEA
-- **Frontend**: HTML, CSS, JavaScript (conhecimentos básicos)
+- **Ferramentas**: Git, Docker, Maven/Gradle, IntelliJ IDEA, AWS
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
 
 ---
 
