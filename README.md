@@ -1,176 +1,56 @@
-# 👨🏻‍💻 Jhonathan dos Santos Dourado
+<h1 align="center">👋 Olá, eu sou Jhonathan Dourado</h1>
 
-**`Desenvolvedor Backend`**
-
-Me chamo Jhonathan dos Santos Dourado, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando o bacharelado em Engenharia de Softwarena FIAP e ja sou técnico em Desenvolvimento de Sistemas pela ETEC Professor Camargo Aranha. Sou apaixonado por tecnologia, especialmente desenvolvimento backend, e estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
-Atualmente Trabalho na empresa Virtsel como Desenvolvedor Full-Stack, em que utilizo as linguagens Typescript com o framework Angular para o Front-End e Java com o framework SpringBoot para o Back-end
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 Estudante de **Engenharia de Sofware** na FIAP
-- 🎓 Tecnico em **Desenvolvimento de Sistemas** pela ETEC Professor Camargo Aranha
-- 💻 Focado em **desenvolvimento backend** com Java e Spring ecosystem
-- 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
-- 📍 Localizado em **São Paulo, SP**
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JUnit"
-    title="JUnit" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin"
-    title="Kotlin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="IntelliJ IDEA"
-    title="IntelliJ IDEA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-
+<p align="center">
+  <em>Desenvolvedor Fullstack apaixonado por arquitetura sólida, código limpo e soluções que escalam.</em>
+</p>
 
 <br/>
+
+## 🧑‍💻 Sobre mim
+
+- 💼 Desenvolvedor Fullstack com foco em **backend Java** e **frontend Angular**
+- ⚙️ Experiência com **arquitetura de microserviços** e APIs REST com Spring Boot
+- 🐳 Entusiasta de **containerização** com Docker
+- 📐 Comprometido com boas práticas de desenvolvimento e código de qualidade
+- 📍 Brasil
+
 <br/>
 
-### 🎯 Principais competências
+## 🛠️ Tecnologias & Ferramentas
 
-- **Backend Development**: Java, Spring Boot, Spring Security, Spring Data JPA
-- **Banco de Dados**: MySQL, PostgreSQL, JPA/Hibernate, SQLServer
-- **Testes**: JUnit, Spring Boot Test, Mockito
-- **APIs**: REST, desenvolvimento de microserviços
-- **Ferramentas**: Git, Docker, Maven/Gradle, IntelliJ IDEA, AWS
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
----
+<br/>
 
-### 💼 Interesses profissionais
+## 📊 GitHub Stats
 
-- 🔧 Desenvolvimento de APIs robustas e escaláveis
-- 🏗️ Arquitetura de software e design patterns
-- 📚 Aprendizado contínuo de novas tecnologias
-- 🤝 Colaboração em projetos open source
-- 💡 Resolução de problemas complexos através da programação
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jhowzxcv&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowzxcv&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
----
+<br/>
 
-### 📫 Vamos nos conectar!
+## 📫 Contato
 
-Estou sempre aberto para discutir projetos interessantes, oportunidades de colaboração ou apenas para bater um papo sobre tecnologia!
+<p>
+  <a href="https://www.linkedin.com/in/jhonathan-dourado-846239324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jhowzxcv" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- 📧 **Email**: jhodourado131@gmail.com
-- 💼 **LinkedIn**: [Jhonathan Dourado](https://www.linkedin.com/in/jhonathan-dourado-846239324/)
-- 🐱 **GitHub**: Você já está aqui! 😄
+<br/>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jhowzxcv&color=blue&style=flat-square&label=Visitas+ao+perfil"/>
+</p>
