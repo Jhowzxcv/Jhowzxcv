@@ -1,56 +1,57 @@
-<h1 align="center">👋 Olá, eu sou Jhonathan Dourado</h1>
+<h1 align="center">Jhonathan Dourado</h1>
 
 <p align="center">
-  <em>Desenvolvedor Fullstack apaixonado por arquitetura sólida, código limpo e soluções que escalam.</em>
+  Construo APIs REST em <strong>Java/Spring Boot</strong> e interfaces em <strong>Angular</strong>.<br/>
+  São Paulo · Eng. de Software na FIAP
 </p>
-
-<br/>
-
-## 🧑‍💻 Sobre mim
-
-- 💼 Desenvolvedor Fullstack com foco em **backend Java** e **frontend Angular**
-- ⚙️ Experiência com **arquitetura de microserviços** e APIs REST com Spring Boot
-- 🐳 Entusiasta de **containerização** com Docker
-- 📐 Comprometido com boas práticas de desenvolvimento e código de qualidade
-- 📍 Brasil
-
-<br/>
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jhowzxcv&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowzxcv&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<br/>
-
-## 📫 Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/jhonathan-dourado-846239324/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jhowzxcv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jhonathan-dourado-846239324/">
+    <img src="https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jhowzxcv&color=blue&style=flat-square&label=Visitas+ao+perfil"/>
-</p>
+### Onde estou
+
+Backend e frontend de painéis operacionais na **Virtsel** — endpoints de dados
+ao vivo e histórico, exportação de relatórios, modelagem de domínio e regras de
+cálculo rodando em produção. Código privado, então o que está aqui embaixo é o
+que dá pra mostrar.
+
+---
+
+### Projetos
+
+**[Ficha Forge](https://github.com/Jhowzxcv/ficha-forge)** · Python
+Escreve a história de um personagem de Ordem Paranormal, recebe a ficha pronta.
+A decisão de projeto: **LLM não calcula**. O modelo interpreta a história e
+escolhe classe, origem e perícias; o motor em código calcula PV/PE/Sanidade e
+valida a build contra as regras — se vier ilegal, devolve os erros e pede
+correção, até 3 rodadas. Roda como desktop, CLI e PWA sobre a mesma engine.
+
+**[Jodrix](https://github.com/Jhowzxcv/jodrix-releases)** · TypeScript / Electron
+App Windows que testa cada jogo da sua biblioteca em dois emuladores, mede
+CPU/memória/travamento e elege o vencedor com score 0–10. Auto-update,
+sync de saves entre máquinas e leaderboard anônimo com backend Cloudflare.
+
+---
+
+### Como trabalho
+
+- Modelo o domínio antes de sair criando endpoint
+- Separo DTO de entidade — o contrato da API não é o banco
+- Coloco a validação em código determinístico, não na camada que pode alucinar
+- Prefiro corrigir a causa da query lenta a botar cache em cima dela
+
+---
+
+### Stack
+
+| Camada | Tecnologias |
+|---|---|
+| **Backend** | Java · Spring Boot · JPA/Hibernate · Maven · REST |
+| **Frontend** | Angular · TypeScript · RxJS |
+| **Dados** | PostgreSQL · Oracle · SQL |
+| **Outros** | Docker · Git · Python · Electron |
